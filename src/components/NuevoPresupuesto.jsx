@@ -23,7 +23,7 @@ const NuevoPresupuesto = ({presupuesto,
             
             <form onSubmit={handlePresupuesto} className='formulario'>
                 <div className='campo'>
-                    <label>Definir Presupuestp</label>
+                    <label>Definir Presupuesto</label>
 
                     <input
                         className='nuevo-presupuesto'
